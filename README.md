@@ -203,7 +203,7 @@ This project avoids cloud APIs entirely.
 
 ---
 
-## 💼 Technical Highlights (For Recruiters)
+## 💼 Technical Highlights 
 
 - Async FastAPI architecture  
 - Modular LLM integration layer  
@@ -240,5 +240,6 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 ## ⭐ Support
 
 If you found this project useful, consider giving the repository a ⭐!
+
 
 
