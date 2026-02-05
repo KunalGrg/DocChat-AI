@@ -151,7 +151,7 @@ http://localhost:11434
 ### 5️⃣ Run the Application
 
 ```bash
-python main.py
+uv run python main.py
 ```
 
 Open browser:
@@ -240,6 +240,7 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 ## ⭐ Support
 
 If you found this project useful, consider giving the repository a ⭐!
+
 
 
 
