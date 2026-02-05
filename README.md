@@ -15,10 +15,10 @@ Unlike cloud-based AI tools, this project runs **fully offline**, ensuring secur
 ## ✨ Demo Preview
 
 ### 🧾 Upload Interface
-![DocChat UI](screenshots/DocChat AI(1).png)
+![DocChat UI](screenshots/DocChat-AI_2.png)
 
 ### 💬 Chat Interaction
-![DocChat Chat](screenshots/DocChat AI(2).png)
+![DocChat Chat](screenshots/DocChat-AI_2.png)
 
 ---
 
@@ -240,3 +240,4 @@ This project is licensed under the [MIT License](LICENSE) — see the LICENSE fi
 ## ⭐ Support
 
 If you found this project useful, consider giving the repository a ⭐!
+
